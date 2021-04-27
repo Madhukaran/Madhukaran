@@ -11,7 +11,7 @@
 <p>
 <a href="#">
   <img align="left" src="https://media-exp1.licdn.com/dms/image/C5116AQFxmdEcSY3x-w/profile-displaybackgroundimage-shrink_200_800/0/1582385756815?e=1625097600&v=beta&t=DGCBuC-boWfaWRouEG2_syYvF5HHUv02a68tdLq5TMA"  width=100%
-  height=auto />
+  height=auto /></a>
 Madhukaran is an experienced Software Engineer and Developer. Madhukaran is currently studying Computer Science Engineering at Kingston Engineering College(Affilitate Anna University),vellore, Tamilnadu, .
 
 A detailed-oriented, responsible and committed engineer, Madhukaran has designed, implemented and tested complex web, mobile, and machine learning applications using variety of programming languages and technologies. Madhukaran is also a quick learner with strong problem-solving, leadership, management and communication skills, comfortable working as a team or individually.
