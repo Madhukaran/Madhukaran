@@ -1,12 +1,3 @@
-<!-- <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhukaran&show_icons=true&count_private=true&theme=radical"  width=100%
-  height=auto />
-<br>
-<br>
-</a> -->
-
-
-
 <p>
 <a href="#">
   <img align="left" src="https://media-exp1.licdn.com/dms/image/C5116AQFxmdEcSY3x-w/profile-displaybackgroundimage-shrink_200_800/0/1582385756815?e=1625097600&v=beta&t=DGCBuC-boWfaWRouEG2_syYvF5HHUv02a68tdLq5TMA"  width=100%
@@ -42,6 +33,12 @@ In his free time, Madhukaran writes articles on Medium.and contributes to the [O
 
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Engineering Best Practices.
 </p>
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhukaran&show_icons=true&count_private=true&theme=radical"  width=100%
+  height=auto />
+<br>
+<br>
+</a>
 
 
 
