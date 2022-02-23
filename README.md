@@ -1,10 +1,7 @@
-<p>
-<a href="#">
-  <img align="left" src="https://media-exp1.licdn.com/dms/image/C5116AQFxmdEcSY3x-w/profile-displaybackgroundimage-shrink_200_800/0/1582385756815?e=1625097600&v=beta&t=DGCBuC-boWfaWRouEG2_syYvF5HHUv02a68tdLq5TMA"  width=100%
-  height=auto /></a>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhukaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhukaran github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukaran&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 # Bio
-
 Madhukaran is an experienced Software Engineer and Developer. Madhukaran is currently studying Computer Science Engineering at Kingston Engineering College(Affilitate Anna University),vellore, Tamilnadu, .
 
 A detailed-oriented, responsible and committed engineer, Madhukaran has designed, implemented and tested complex web, mobile, and machine learning applications using variety of programming languages and technologies. Madhukaran is also a quick learner with strong problem-solving, leadership, management and communication skills, comfortable working as a team or individually.
@@ -33,14 +30,15 @@ In his free time, Madhukaran writes articles on Medium.and contributes to the [O
 
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Engineering Best Practices.
 </p>
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madhukaran&show_icons=true&count_private=true&theme=radical"  width=100%
-  height=auto />
-<br>
-<br>
-</a>
 
+**Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## Connect with me:
 
